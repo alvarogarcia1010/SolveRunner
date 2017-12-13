@@ -1,0 +1,3 @@
+
+raul;laberinto6.txt:14,90*0
+alvarito;laberinto2.txt:45,510*0
